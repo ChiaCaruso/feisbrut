@@ -1,0 +1,32 @@
+@import "../../Libs/variables.scss";
+
+
+.boxLogin{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  label,
+  button {
+    display: block;
+    margin-top: 1rem;
+  }
+}
+
+.formBtn{
+  margin: auto;
+  padding: 0.5rem 0.8rem;
+  color: $white;
+  background: $main;
+  border: 1px solid $main;
+  border-radius: 16px;
+  cursor: pointer;
+  transition: $baseTransition;
+
+  &:hover{
+    background: $white;
+    color: $main;
+  }
+}
+
+

@@ -1,0 +1,33 @@
+
+
+.createpost{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   
+
+    form{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+
+    > * {
+        margin-bottom: 20px;
+        
+    }
+}
+
+.__author{
+
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+
+    button {
+        padding: 5px;
+        width: 100%;
+    }
+}
+
+}

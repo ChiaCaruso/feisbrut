@@ -1,0 +1,14 @@
+@import "./../../Libs/variables.scss";
+
+.banner{
+    width: 400px;
+    position: fixed;
+    top: 0;
+    left: calc(50% - 200px);
+    
+
+    h3{
+        text-align: center;
+        color: $white;
+    }
+}
