@@ -1,20 +1,21 @@
 # Nome della action
 name: Deploy React App to GH pages
 
-# Evento che triggera la action
-on: 
+# "evento" che triggera la action
+on:
   push:
-    branches: [ main ]
+    branches: [main]
 
-# Setup della action 
+# setup della action
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    strategy: 
+    strategy:
       matrix:
-        node-version: [14.x]
-    
+        # versione di node.js da utilizzare
+        node-version: [14]
+
     steps:
       - uses: actions/checkout@v2
       - name: Use Node.js ${{ matrix.node-version }}
@@ -22,10 +23,9 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      ## Codice custom
+      ## codice custom
       - run: npm ci
-      - run: npm test
-      - run: nmp run build
+      - run: npm run build
 
       ## Presa dal marketplace
       - name: Deploy
