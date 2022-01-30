@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/feisbrut/static/css/main.ad5d5b4b.chunk.css",
+    "main.js": "/feisbrut/static/js/main.69c8a6a3.chunk.js",
+    "main.js.map": "/feisbrut/static/js/main.69c8a6a3.chunk.js.map",
+    "runtime-main.js": "/feisbrut/static/js/runtime-main.56c639c5.js",
+    "runtime-main.js.map": "/feisbrut/static/js/runtime-main.56c639c5.js.map",
+    "static/css/2.36343546.chunk.css": "/feisbrut/static/css/2.36343546.chunk.css",
+    "static/js/2.afe23f9b.chunk.js": "/feisbrut/static/js/2.afe23f9b.chunk.js",
+    "static/js/2.afe23f9b.chunk.js.map": "/feisbrut/static/js/2.afe23f9b.chunk.js.map",
+    "static/js/3.9341d6ff.chunk.js": "/feisbrut/static/js/3.9341d6ff.chunk.js",
+    "static/js/3.9341d6ff.chunk.js.map": "/feisbrut/static/js/3.9341d6ff.chunk.js.map",
+    "static/css/4.27348ada.chunk.css": "/feisbrut/static/css/4.27348ada.chunk.css",
+    "static/js/4.b9298627.chunk.js": "/feisbrut/static/js/4.b9298627.chunk.js",
+    "static/js/4.b9298627.chunk.js.map": "/feisbrut/static/js/4.b9298627.chunk.js.map",
+    "static/js/5.e2ed9418.chunk.js": "/feisbrut/static/js/5.e2ed9418.chunk.js",
+    "static/js/5.e2ed9418.chunk.js.map": "/feisbrut/static/js/5.e2ed9418.chunk.js.map",
+    "static/css/6.7d8c4272.chunk.css": "/feisbrut/static/css/6.7d8c4272.chunk.css",
+    "static/js/6.f051afc0.chunk.js": "/feisbrut/static/js/6.f051afc0.chunk.js",
+    "static/js/6.f051afc0.chunk.js.map": "/feisbrut/static/js/6.f051afc0.chunk.js.map",
+    "static/css/7.4a9262ac.chunk.css": "/feisbrut/static/css/7.4a9262ac.chunk.css",
+    "static/js/7.22725230.chunk.js": "/feisbrut/static/js/7.22725230.chunk.js",
+    "static/js/7.22725230.chunk.js.map": "/feisbrut/static/js/7.22725230.chunk.js.map",
+    "static/js/8.1f17dcd9.chunk.js": "/feisbrut/static/js/8.1f17dcd9.chunk.js",
+    "static/js/8.1f17dcd9.chunk.js.map": "/feisbrut/static/js/8.1f17dcd9.chunk.js.map",
+    "static/js/9.15dc4c1d.chunk.js": "/feisbrut/static/js/9.15dc4c1d.chunk.js",
+    "static/js/9.15dc4c1d.chunk.js.map": "/feisbrut/static/js/9.15dc4c1d.chunk.js.map",
+    "index.html": "/feisbrut/index.html",
+    "static/css/2.36343546.chunk.css.map": "/feisbrut/static/css/2.36343546.chunk.css.map",
+    "static/css/4.27348ada.chunk.css.map": "/feisbrut/static/css/4.27348ada.chunk.css.map",
+    "static/css/6.7d8c4272.chunk.css.map": "/feisbrut/static/css/6.7d8c4272.chunk.css.map",
+    "static/css/7.4a9262ac.chunk.css.map": "/feisbrut/static/css/7.4a9262ac.chunk.css.map",
+    "static/css/main.ad5d5b4b.chunk.css.map": "/feisbrut/static/css/main.ad5d5b4b.chunk.css.map",
+    "static/js/3.9341d6ff.chunk.js.LICENSE.txt": "/feisbrut/static/js/3.9341d6ff.chunk.js.LICENSE.txt",
+    "static/js/5.e2ed9418.chunk.js.LICENSE.txt": "/feisbrut/static/js/5.e2ed9418.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56c639c5.js",
+    "static/js/3.9341d6ff.chunk.js",
+    "static/css/main.ad5d5b4b.chunk.css",
+    "static/js/main.69c8a6a3.chunk.js"
+  ]
+}
