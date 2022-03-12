@@ -15,7 +15,7 @@ const Login = lazy(() => import("./pages/Login"));
 const INIT_STATE = {
   name: 'Feisbrut',
   nav: [
-    { link: "/", label: "Home" },
+    { link: "/feisbrut", label: "Home" },
     { link: "/friends", label: "Friends" },
     { link: "/messages", label: "Messages" },
     { link: "/login", label: "Login" }
@@ -33,7 +33,7 @@ function App() {
       <Header name={nameUser} links={INIT_STATE.nav} />
 
       <Routes>
-        <Route path="/" element={
+        <Route path="/feisbrut" element={
           <Suspense fallback={<Loading />}>
             <Home />
           </Suspense>
