@@ -1,9 +1,8 @@
-
+import { useState } from "react";
 import styles from './Post.module.scss';
 import { ViewDate } from "../ViewDate";
 import { httpDelete } from '../../Libs/http';
 import Banner from '../Banner';
-import { useState } from 'react/cjs/react.development';
 
 const Post = (props) => {
 
